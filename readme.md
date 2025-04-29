@@ -20,7 +20,6 @@ ShoeGo is an e-commerce web application for buying and selling shoes. This proje
 - Improve item spacing and legibility
   
 ### 🛠️ Admin:-
-- Remove product box in category input: understand how product and category are connected
 - day/month/year/custom date filters for sales report
 
 ### 🗃️ Database:-
